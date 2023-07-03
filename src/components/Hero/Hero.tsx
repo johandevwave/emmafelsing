@@ -9,7 +9,7 @@ const Hero: React.FunctionComponent = () => (
             <div>
               <a
                 className="lg:text-4xl text-red-500 text-2xl text-center italic lg:z-20 lg:relative"
-                href="matilto:emmafelsing@hotmail.com"
+                href="mailto:emmafelsing@hotmail.com"
               >
                 emmafelsing@hotmail.com
               </a>
