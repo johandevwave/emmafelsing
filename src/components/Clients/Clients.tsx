@@ -1,3 +1,5 @@
+"use client";
+
 import Client from "./components/Client/Client";
 
 const Clients: React.FunctionComponent = () => (
