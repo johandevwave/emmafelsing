@@ -13,7 +13,7 @@ const About: React.FunctionComponent = () => (
           />
         </div>
         <div>
-          <p className=" text-red-500 lg:text-2xl mt-10 lg:mt-0">
+          <p className=" text-red-500 lg:text-2xl lg:mt-0">
             Born and raised in Borås. Lived and learned in Halmstad. I'm a
             marketer and content creator leaving my fingerprints on the social
             media world at every turn. When I'm not creating content, I engage
