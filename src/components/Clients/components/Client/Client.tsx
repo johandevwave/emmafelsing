@@ -2,9 +2,14 @@ import Script from "next/script";
 interface IClient {
   tiktok?: React.ReactNode | string;
   instagram?: React.ReactNode | string;
+  hiddenMobile?: boolean;
 }
 
-const Client: React.FunctionComponent<IClient> = ({ tiktok, instagram }) => (
+const Client: React.FunctionComponent<IClient> = ({
+  tiktok,
+  instagram,
+  hiddenMobile,
+}) => (
   <div>
     {tiktok && (
       <div>
@@ -13,7 +18,7 @@ const Client: React.FunctionComponent<IClient> = ({ tiktok, instagram }) => (
       </div>
     )}
     {instagram && (
-      <div>
+      <div className="hidden lg:block">
         {instagram} <Script async src="//www.instagram.com/embed.js" />
       </div>
     )}

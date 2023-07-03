@@ -74,7 +74,7 @@ const Work: React.FunctionComponent = () => (
       </div>
       <div>
         <h2 className=" text-red-500 font-extrabold lg:text-4xl max-w-4xl uppercase">
-          Companies that I have been entrusted to work with.
+          Some companies that I have been entrusted to work with.
         </h2>
       </div>
     </div>

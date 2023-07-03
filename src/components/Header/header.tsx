@@ -59,13 +59,25 @@ export const Header: React.FunctionComponent = () => {
           >
             <ul className="flex flex-col mt-4 font-medium lg:flex-row lg:space-x-8 lg:mt-0">
               <li>
-                <MenuItem link="#trusted" text="Trusted by" />
+                <MenuItem
+                  isVisible={(value: boolean) => isShowingMobileMenu(value)}
+                  link="#trusted"
+                  text="Trusted by"
+                />
               </li>
               <li>
-                <MenuItem link="#about" text="About" />
+                <MenuItem
+                  link="#about"
+                  text="About"
+                  isVisible={(value: boolean) => isShowingMobileMenu(value)}
+                />
               </li>
               <li>
-                <MenuItem link="#portfolio" text="Portfolio" />
+                <MenuItem
+                  link="#portfolio"
+                  text="Portfolio"
+                  isVisible={(value: boolean) => isShowingMobileMenu(value)}
+                />
               </li>
             </ul>
           </div>

@@ -9,7 +9,7 @@ const About: React.FunctionComponent = () => (
             alt="image of Emma standing in front of a house"
             width={600}
             height={700}
-            src="/images/emma_about.jpg"
+            src="/images/emma_about_new.jpg"
           />
         </div>
         <div>

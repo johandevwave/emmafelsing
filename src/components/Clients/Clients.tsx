@@ -5,9 +5,12 @@ import Client from "./components/Client/Client";
 const Clients: React.FunctionComponent = () => (
   <section id="portfolio" className="lg:my-20 py-10 px-4">
     <div className="container mx-auto">
-      <h2 className="text-red-500 lg:text-5xl underline uppercase text-2xl mb-5 lg:mb-20">
+      <h2 className="text-red-500 lg:text-5xl underline uppercase text-2xl">
         Portfolio
       </h2>
+      <p className="text-red-500 lg:text-2xl text-lg mb-5 lg:mb-20 lg:mt-2">
+        Some examples of created content
+      </p>
       <div className="grid lg:grid-cols-3 gap-5">
         <Client
           instagram={
