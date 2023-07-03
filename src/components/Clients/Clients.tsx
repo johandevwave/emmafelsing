@@ -998,6 +998,155 @@ const Clients: React.FunctionComponent = () => (
             </blockquote>
           }
         />
+        <Client
+          tiktok={
+            <blockquote
+              className="tiktok-embed"
+              cite="https://www.tiktok.com/@emmafelsing/video/7157046379028729093"
+              data-video-id="7157046379028729093"
+              style={{ maxWidth: "605px", minWidth: "325px" }}
+            >
+              {" "}
+              <section>
+                {" "}
+                <a
+                  target="_blank"
+                  title="@emmafelsing"
+                  href="https://www.tiktok.com/@emmafelsing?refer=embed"
+                >
+                  @emmafelsing
+                </a>{" "}
+                Ni får ha överseende med att det är första gången jag gör en
+                voice over 🙈 Men ville bara visa upp detta fina paket ifrån
+                @samsoesamsoeofficial 🤍🪩{" "}
+                <a
+                  title="fyp"
+                  target="_blank"
+                  href="https://www.tiktok.com/tag/fyp?refer=embed"
+                >
+                  #fyp
+                </a>{" "}
+                <a
+                  target="_blank"
+                  title="♬ originalljud - Emma Felsing"
+                  href="https://www.tiktok.com/music/originalljud-7157046390554708741?refer=embed"
+                >
+                  ♬ originalljud - Emma Felsing
+                </a>{" "}
+              </section>{" "}
+            </blockquote>
+          }
+        />
+        <Client
+          tiktok={
+            <blockquote
+              className="tiktok-embed"
+              cite="https://www.tiktok.com/@emmafelsing/video/7250411756021959962"
+              data-video-id="7250411756021959962"
+              style={{ maxWidth: "605px", minWidth: "325px" }}
+            >
+              {" "}
+              <section>
+                {" "}
+                <a
+                  target="_blank"
+                  title="@emmafelsing"
+                  href="https://www.tiktok.com/@emmafelsing?refer=embed"
+                >
+                  @emmafelsing
+                </a>{" "}
+                Part 1 | I hope u like this heatless curls beach waves❣️
+                <a
+                  title="hair"
+                  target="_blank"
+                  href="https://www.tiktok.com/tag/hair?refer=embed"
+                >
+                  #hair
+                </a>{" "}
+                <a
+                  title="heatlesscurls"
+                  target="_blank"
+                  href="https://www.tiktok.com/tag/heatlesscurls?refer=embed"
+                >
+                  #heatlesscurls
+                </a>{" "}
+                <a
+                  title="tothesalon"
+                  target="_blank"
+                  href="https://www.tiktok.com/tag/tothesalon?refer=embed"
+                >
+                  #tothesalon
+                </a>{" "}
+                <a
+                  target="_blank"
+                  title="♬ to the salon - inactive"
+                  href="https://www.tiktok.com/music/to-the-salon-6957402810405096198?refer=embed"
+                >
+                  ♬ to the salon - inactive
+                </a>{" "}
+              </section>{" "}
+            </blockquote>
+          }
+        />
+        <Client
+          tiktok={
+            <blockquote
+              className="tiktok-embed"
+              cite="https://www.tiktok.com/@emmafelsing/video/7194881165008850181"
+              data-video-id="7194881165008850181"
+              style={{ maxWidth: "605px", minWidth: "325px" }}
+            >
+              {" "}
+              <section>
+                {" "}
+                <a
+                  target="_blank"
+                  title="@emmafelsing"
+                  href="https://www.tiktok.com/@emmafelsing?refer=embed"
+                >
+                  @emmafelsing
+                </a>{" "}
+                Get dressed with me w&#47; Bikbok🤍 Use the code emmaf20 for 20%
+                until february 7th 💆‍♀️{" "}
+                <a
+                  title="ootd"
+                  target="_blank"
+                  href="https://www.tiktok.com/tag/ootd?refer=embed"
+                >
+                  #OOTD
+                </a>{" "}
+                <a
+                  title="outfitideas"
+                  target="_blank"
+                  href="https://www.tiktok.com/tag/outfitideas?refer=embed"
+                >
+                  #outfitideas
+                </a>{" "}
+                <a
+                  title="simpleoutfit"
+                  target="_blank"
+                  href="https://www.tiktok.com/tag/simpleoutfit?refer=embed"
+                >
+                  #simpleoutfit
+                </a>{" "}
+                <a
+                  title="styleinspo"
+                  target="_blank"
+                  href="https://www.tiktok.com/tag/styleinspo?refer=embed"
+                >
+                  #styleinspo
+                </a>{" "}
+                <a
+                  target="_blank"
+                  title="♬ Sex and the City (Main Theme) - TV Sounds Unlimited"
+                  href="https://www.tiktok.com/music/Sex-and-the-City-Main-Theme-6709415906423867393?refer=embed"
+                >
+                  ♬ Sex and the City (Main Theme) - TV Sounds Unlimited
+                </a>{" "}
+              </section>{" "}
+            </blockquote>
+          }
+        />
       </div>
     </div>
   </section>
