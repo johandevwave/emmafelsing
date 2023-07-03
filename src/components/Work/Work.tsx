@@ -58,7 +58,7 @@ const Work: React.FunctionComponent = () => (
         <div>
           <Image
             alt="logo image"
-            src="/images/7.png"
+            src="/images/holdit.png"
             width={250}
             height={100}
           />
