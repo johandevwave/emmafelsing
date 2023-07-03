@@ -578,7 +578,7 @@ const Clients: React.FunctionComponent = () => (
           instagram={
             <blockquote
               className="instagram-media"
-              data-instgrm-permalink="https://www.instagram.com/p/CqYqvOkrgWz/?utm_source=ig_embed&amp;utm_campaign=loading"
+              data-instgrm-permalink="https://www.instagram.com/p/CqYqvOkrgWz/?utm_source=ig_embed"
               data-instgrm-version="14"
               style={{
                 background: "#FFF",
