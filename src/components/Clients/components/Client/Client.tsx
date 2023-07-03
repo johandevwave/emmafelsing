@@ -1,3 +1,4 @@
+import Script from "next/script";
 interface IClient {
   tiktok: React.ReactNode | string;
 }
@@ -5,7 +6,7 @@ interface IClient {
 const Client: React.FunctionComponent<IClient> = ({ tiktok }) => (
   <div>
     {tiktok}
-    <script async src="https://www.tiktok.com/embed.js"></script>
+    <Script async src="https://www.tiktok.com/embed.js" />
   </div>
 );
 export default Client;
