@@ -3,7 +3,7 @@ import Image from "next/image";
 const Work: React.FunctionComponent = () => (
   <section id="trusted" className="lg:my-20 lg:py-10 px-4">
     <div className="container mx-auto">
-      <h2 className="text-red-500 lg:text-5xl text-2xl underline lg:mb-10 uppercase">Trusted by</h2>
+      <h2 className="text-red-500 pt-5 lg:pt-0 lg:text-5xl text-2xl underline lg:mb-10 uppercase">Trusted by</h2>
       <div className="grid lg:grid-cols-4 grid-cols-2 gap-5">
         <div className="">
           <div>
