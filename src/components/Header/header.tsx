@@ -10,9 +10,12 @@ export const Header: React.FunctionComponent = () => {
       <nav className="bg-white border-gray-200 px-4 lg:px-6  py-5 container mx-auto">
         <div className="flex flex-wrap justify-between items-center mx-auto ">
           <div>
-            <h2 className="lg:text-3xl text-2xl text-red-500 uppercase">
-              Emma felsing
-            </h2>
+            <a href="#top">
+              {" "}
+              <h2 className="lg:text-3xl text-2xl text-red-500 uppercase">
+                Emma felsing
+              </h2>
+            </a>
           </div>
           <div className="flex items-right">
             <button
