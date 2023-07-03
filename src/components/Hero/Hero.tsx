@@ -32,16 +32,18 @@ const Hero: React.FunctionComponent = () => (
               digital marketing, I am certified, have led projects, and have
               served as a marketing manager.
             </p>
-            <p className="text-red-500 font-light lg:mb-2 md:text-lg lg:text-xl lg:mb-6">
+            <p className="text-red-500 hidden lg:flex font-light md:text-lg lg:text-xl lg:mb-6">
               Do you need help with gaining visibility on social media? Reach
               out to me!
             </p>
-            <a
-              className="border-2 font-bold text-lg transition ease-in-out hover:-translate-y-1 hover:scale-110 border-red-500 py-2 px-3 text-center text-red-500 hover:bg-red-500 hover:text-white"
-              href="mailto:emmafelsing@hotmail.com"
-            >
-              Email me
-            </a>
+            <div className="hidden lg:flex">
+              <a
+                className="border-2  font-bold text-lg transition ease-in-out hover:-translate-y-1 hover:scale-110 border-red-500 py-2 px-3 text-center text-red-500 hover:bg-red-500 hover:text-white"
+                href="mailto:emmafelsing@hotmail.com"
+              >
+                Email me
+              </a>
+            </div>
           </div>
         </div>
 
